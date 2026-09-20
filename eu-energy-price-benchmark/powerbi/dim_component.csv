@@ -1,4 +1,0 @@
-﻿component_code,component_name,component_order,set_by,note
-energy_supply,Energy & supply,1,Supplier,"The commodity. The only part a supplier sets, and the only part open to competition."
-network_costs,Network charges,2,Regulator,Delivery over the wires. Set by the Energy Regulatory Office; identical whichever supplier the customer signs with.
-taxes_excl_vat,Taxes and levies,3,State,Electricity tax and the renewable support levy. Set by law.
