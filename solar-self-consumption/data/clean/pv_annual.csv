@@ -1,6 +1,0 @@
-﻿location,region,latitude,longitude,yield_kwh_per_kwp,st_dev_kwh,variability_pct,irradiation_kwh_m2
-Brno,Jihomoravský,49.195,16.606,1086.9,49.2,4.5,1415.4
-Prague,Praha,50.075,14.437,1054.6,50.9,4.8,1369.4
-Plzeň,Plzeňský,49.747,13.377,1030.8,54.4,5.3,1342.4
-Ostrava,Moravskoslezský,49.82,18.262,1026.0,48.8,4.8,1329.5
-Ústí nad Labem,Ústecký,50.661,14.032,997.1,53.9,5.4,1295.7
