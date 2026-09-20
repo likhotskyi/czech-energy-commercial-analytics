@@ -1,0 +1,11 @@
+{
+  "source": "Eurostat",
+  "datasets": {
+    "nrg_pc_205": "Electricity prices for non-household consumers (half-yearly)",
+    "nrg_pc_205_c": "Electricity price components for non-household consumers (annual)",
+    "nrg_pc_203": "Gas prices for non-household consumers (half-yearly)"
+  },
+  "last_updated_by_eurostat": "2026-08-11",
+  "tax_basis": "Excluding VAT and other recoverable taxes",
+  "currency": "EUR"
+}
