@@ -1,7 +1,0 @@
-﻿year,observations,hours_delivered,hours_expected,calendar_hours_in_year,gap_hours,gaps_in_series_hours,resolutions_minutes,status
-2021,8760,8760.0,8760.0,8760.0,0.0,0.0,60,complete year
-2022,8760,8760.0,8760.0,8760.0,0.0,0.0,60,complete year
-2023,8760,8760.0,8760.0,8760.0,0.0,0.0,60,complete year
-2024,8784,8784.0,8784.0,8784.0,0.0,0.0,60,complete year
-2025,15387,8760.0,8760.0,8760.0,0.0,0.0,"15, 60",complete year
-2026,23324,5831.0,5831.0,8760.0,0.0,0.0,15,partial year
