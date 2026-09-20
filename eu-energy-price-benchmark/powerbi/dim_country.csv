@@ -1,0 +1,8 @@
+﻿geo,country,role,is_reference,country_order
+AT,Austria,Peer,No,1
+CZ,Czechia,Home,No,2
+EU27_2020,EU average,Reference,Yes,3
+DE,Germany,Peer,No,4
+HU,Hungary,Peer,No,5
+PL,Poland,Peer,No,6
+SK,Slovakia,Peer,No,7
